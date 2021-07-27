@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 50px;
+}
+
+p {
+    margin: 0;
+    cursor: pointer;
+}
+
+.list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mRa {
+    margin-right: auto
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+.w100 {
+    width: 100%;
+}
